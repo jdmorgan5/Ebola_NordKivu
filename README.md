@@ -14,27 +14,27 @@ ________________________________________________________________________________
 
 Travel time from districts reporting cases to areas in and around the Kivus, including neighbouring countries
 
-![alt text](Outputs_Aug29_update/Travel_time_map.png)
+![alt text](Outputs_Nov19_update/Travel_time_map.png)
 
 Travel time from districts reporting cases to locations in Uganda, coloured by percentile rank
-![alt text](Outputs_Aug29_update/Uganda_map.png)
+![alt text](Outputs_Nov19_update/Uganda_map.png)
 
 Travel time from districts reporting cases to locations in Rwanda, coloured by percentile rank
-![alt text](Outputs_Aug29_update/Rwanda_map.png)
+![alt text](Outputs_Nov19_update/Rwanda_map.png)
 
 Travel time from districts reporting cases to locations in South Sudan, coloured by percentile rank
-![alt text](Outputs_Aug29_update/SSudan_map.png)
+![alt text](Outputs_Nov19_update/SSudan_map.png)
 
 Rank order and travel time proximity of Ugandan hospitals to reported cases
-![alt text](Outputs_Aug29_update/ug_hosp_tt_prettytab.png)
+![alt text](Outputs_Nov19_update/ug_hosp_tt_prettytab.png)
 
 Rank order and travel time proximity of Rwandan hospitals to reported cases
-![alt text](Outputs_Aug29_update/rw_hosp_tt_prettytab.png)
+![alt text](Outputs_Nov19_update/rw_hosp_tt_prettytab.png)
 
 Rank order and travel time proximity of Congolese hospitals to reported cases
-![alt text](Outputs_Aug29_update/drc_hosp_tt_prettytab.png)
+![alt text](Outputs_Nov19_update/drc_hosp_tt_prettytab.png)
 
 Rank order and travel time proximity of South Sudanese hospitals to reported cases
-![alt text](Outputs_Aug29_update/ss_hosp_tt_prettytab.png)
+![alt text](Outputs_Nov19_update/ss_hosp_tt_prettytab.png)
 
-Outputs were last updated on 9 September 2019 and are based upon WHO Disease Outbreak News, August 29.
+Outputs were last updated on 26 November 2019 and are based upon WHO Disease Outbreak News, November 19.
